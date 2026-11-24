@@ -331,6 +331,7 @@ A list of talented developers that's doing an awesome job! In order to complete 
 - [Javascript] [Chinese Character Worksheet Generator](https://github.com/dsystems-io/chinese-worksheet-generator): Chinese Character Worksheet Generator for A5 and A6 (written in NodeJS).
 - [Javascript] [Supernote Crosswords](https://github.com/colingourlay/supernote-crosswords): An automated utility to upload daily crosswords to your Supernote Cloud.
 - [Javascript] [Japanese kana reading and writing learning PDF](https://github.com/Gerqus/gerqus.github.io): View it on https://gerqus.github.io.
+- [Kotlin] [Supernote OPDS Sync](https://github.com/FazalAAli/supernote-opds-sync): Sideloadable Android app that downloads the books from an OPDS catalog (Calibre-Web, Kavita, Komga, Bindery, etc.) into your Supernote's library.
 - [PHP] [Supernote A6X Planner](https://github.com/hugoender/supernote-planner): A linked PDF Planner for Supernote A6X system.
 - [Python] [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): Convert Supernote's `*.note` files into PDF, PNG or SVG from the command line.
 - [Python] [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF.
